@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_folk">Hello Folk!</string>
+    <string name="button">Button</string>
+    <string name="enter_mass_in_kg">Enter mass in kg</string>
+</resources>
